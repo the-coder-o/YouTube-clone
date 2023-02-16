@@ -1,0 +1,15 @@
+.header__top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav__list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav__list-item img {
+  border-radius: 50%;
+}
